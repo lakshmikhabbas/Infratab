@@ -41,12 +41,12 @@ color:#ffffff; font-size:15px; font-weight:500 !important; text-align: center;}
 padding-top:10px;}
 .place-order a{color:#ffffff;}
 /* main content section ends */
-.boxes .img1{background-image:url("../assets/world-map.jpg"); background-size: cover; height:200px; background-repeat: no-repeat; }
-.boxes .img2{background-image:url("../assets/home_deckor.jpg"); height:200px; background-size: cover; background-repeat: no-repeat; }
-.boxes .img3{background-image:url("../assets/swing.jpg"); height:200px; background-size: cover; background-repeat: no-repeat; }
-.boxes .img4{background-image:url("../assets/tree.jpg"); height:200px; background-size: cover; background-repeat: no-repeat; }
-.boxes .img5{background-image:url("../assets/eiffel-tower.jpg"); height:200px; background-size: cover; background-repeat: no-repeat; }
-.boxes .img6{background-image:url("../assets/wall-hanging.jpg"); height:200px; background-size: cover; background-repeat: no-repeat; }
+.boxes .img1{background-image:url("assets/world-map.jpg"); background-size: cover; height:200px; background-repeat: no-repeat; }
+.boxes .img2{background-image:url("assets/home_deckor.jpg"); height:200px; background-size: cover; background-repeat: no-repeat; }
+.boxes .img3{background-image:url("assets/swing.jpg"); height:200px; background-size: cover; background-repeat: no-repeat; }
+.boxes .img4{background-image:url("assets/tree.jpg"); height:200px; background-size: cover; background-repeat: no-repeat; }
+.boxes .img5{background-image:url("assets/eiffel-tower.jpg"); height:200px; background-size: cover; background-repeat: no-repeat; }
+.boxes .img6{background-image:url("assets/wall-hanging.jpg"); height:200px; background-size: cover; background-repeat: no-repeat; }
 /********************************Media query****************************/
 @media only screen and (max-width:425px){
     .boxes{display:block !important; padding:0px}
