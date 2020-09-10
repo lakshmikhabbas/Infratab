@@ -1,0 +1,16 @@
+*{margin:0; padding:0; box-sizing: border-box; font-family: "Times New Roman", Times, serif; font-weight: 800;}
+a{text-decoration: none;}
+body{background-color:#f6f6f6}
+@mixin imagesize{
+    background-size: cover;
+     height:200px; 
+     background-repeat: no-repeat; 
+}
+@mixin size{
+    display:block; 
+    width:100%;
+}
+$shadow: 0px 2px 2px 2px rgba(209, 209, 209, 0.6);
+$shadow-2:0px 1px 5px 0px #bebdbd;
+$borders:1px solid rgb(236, 236, 236);
+$colors:#ffffff;
