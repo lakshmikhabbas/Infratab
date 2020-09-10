@@ -1,10 +1,10 @@
 *{margin:0; padding:0; box-sizing: border-box; font-family: "Times New Roman", Times, serif; font-weight: 800;}
 a{text-decoration: none;}
+h5, h2, p, a{margin:0; padding:0;}
 body{background-color:#f6f6f6}
-@mixin imagesize{
-    background-size: cover;
-     height:200px; 
-     background-repeat: no-repeat; 
+@mixin space-property{
+    padding:0px -20px 20px -20px;  
+    margin: 5px 0px 20px 10px; 
 }
 @mixin size{
     display:block; 
